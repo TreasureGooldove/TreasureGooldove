@@ -46,15 +46,14 @@
   </picture>
 </div>
 
-<details>
-<summary>展开查看 3D 贡献图</summary>
+### 🧊 3D 贡献图
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg" />
-  <img src="./profile-3d-contrib/profile-gitblock.svg" alt="Gooldove 的 3D GitHub 贡献图" />
-</picture>
-
-</details>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg" />
+    <img src="./profile-3d-contrib/profile-gitblock.svg" alt="Gooldove 的 3D GitHub 贡献图" />
+  </picture>
+</div>
 
 ## 📮 联系我
 
