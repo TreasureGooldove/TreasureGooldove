@@ -31,10 +31,30 @@
 ## 📊 GitHub 活动
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=TreasureGooldove&amp;theme=dark&amp;hide_border=true" alt="GitHub 连续贡献统计" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=TreasureGooldove&amp;theme=dark&amp;hide_border=true" />
+    <img src="https://streak-stats.demolab.com/?user=TreasureGooldove&amp;theme=light&amp;hide_border=true" alt="GitHub 连续贡献统计" />
+  </picture>
 </div>
 
-<!-- 贡献贪吃蛇和 3D 图将在本仓库首次成功生成后加入这里。 -->
+### 🐍 贡献贪吃蛇
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TreasureGooldove/TreasureGooldove/output/github-contribution-grid-snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/TreasureGooldove/TreasureGooldove/output/github-contribution-grid-snake.svg" alt="Gooldove 的 GitHub 贡献贪吃蛇动画" />
+  </picture>
+</div>
+
+<details>
+<summary>展开查看 3D 贡献图</summary>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg" />
+  <img src="./profile-3d-contrib/profile-gitblock.svg" alt="Gooldove 的 3D GitHub 贡献图" />
+</picture>
+
+</details>
 
 ## 📮 联系我
 
