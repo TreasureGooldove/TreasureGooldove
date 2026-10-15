@@ -19,6 +19,7 @@
 - 🔧 正在探索 AI 辅助开发、HarmonyOS 应用和游戏工具。
 - 💻 使用或学习 TypeScript、Python、ArkTS 和 C#。
 - 🎯 希望把项目持续打磨成能交付、能维护的产品。
+- 赞助我 https://afdian.com/a/gooldove
 
 ## 🛠️ 项目
 
