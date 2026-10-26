@@ -10,6 +10,8 @@
 
   <a href="https://github.com/TreasureGooldove"><img src="https://img.shields.io/badge/GitHub-TreasureGooldove-181717?style=flat-square&amp;logo=github&amp;logoColor=white" alt="GitHub" /></a>
 
+  <a href="https://github.com/Gooldove"><img src="https://img.shields.io/badge/Gooldove-181717?style=flat-square&amp;logo=github&amp;logoColor=white" alt="GitHub" /></a>
+
 </div>
 
 ## 🙋 关于我
